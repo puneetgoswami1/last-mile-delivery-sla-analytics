@@ -18,7 +18,7 @@ Tracking overall On-Time Delivery (OTD) percentage alone does not tell operation
 ## How to Run
 
 ```bash
-git clone [https://github.com/puneetgoswami1/last-mile-delivery-sla-analytics.git](https://github.com/puneetgoswami1/last-mile-delivery-sla-analytics.git)
+git clone https://github.com/puneetgoswami1/last-mile-delivery-sla-analytics.git
 cd last-mile-delivery-sla-analytics
 
 pip install -r requirements.txt
